@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.bg-img {
+  
+  border-radius: 5px;
+  /* background-image: url("https://img.freepik.com/free-photo/shopping-bag-cart_23-2148879372.jpg"); */
+  background-image: url("https://img.freepik.com/free-photo/paper-bags-different-colors-blue-background-top-view_169016-43755.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  
+}
